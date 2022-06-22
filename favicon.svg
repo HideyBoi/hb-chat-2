@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4230">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4226" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0.95833331"
+         id="stop4228" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2179">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0.88333333"
+         id="stop2175" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2177" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient666">
+      <stop
+         style="stop-color:#37abc8;stop-opacity:1;"
+         offset="0"
+         id="stop662" />
+      <stop
+         style="stop-color:#0044aa;stop-opacity:1"
+         offset="1"
+         id="stop664" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient666"
+       id="linearGradient668"
+       x1="116.26272"
+       y1="132.50529"
+       x2="424.01697"
+       y2="424.87183"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient4230"
+       id="radialGradient4261"
+       cx="257.43588"
+       cy="247.95621"
+       fx="257.43588"
+       fy="247.95621"
+       r="251.57091"
+       gradientTransform="matrix(1,0,0,0.96532601,0,8.5976325)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient668);fill-opacity:1"
+       d="M 81.628886,418.26879 C 0.0049519,341.3454 0.00758173,170.67662 85.315556,85.292893 170.62353,-0.09083475 341.22902,-0.18166574 422.85198,76.74274 504.47494,153.66715 497.11305,307.6049 489.75111,461.5436 326.50151,478.36794 163.25282,495.19219 81.628886,418.26879 Z"
+       id="path512" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:224px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';white-space:pre;inline-size:493.202;display:inline;fill:#afdde9"
+       x="192.34641"
+       y="282.96292"
+       id="text788"
+       transform="translate(-113.6981,52.147247)"><tspan
+         x="192.34641"
+         y="282.96292"
+         id="tspan4674">HB!</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#radialGradient4261);stroke-opacity:1;stroke-width:30;stroke-dasharray:none"
+       d="M 81.628885,418.26879 C 0.0049519,341.3454 0.00758173,170.67662 85.315556,85.292893 170.62353,-0.09083475 341.22902,-0.18166574 422.85198,76.742742 504.47494,153.66715 497.11305,307.6049 489.75111,461.5436 326.50151,478.36794 163.25282,495.19219 81.628885,418.26879 Z"
+       id="path1442" />
+  </g>
+</svg>
